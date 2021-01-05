@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\cmake-build-debug",
+    "\\lib",
+    "\\out",
+    "\\Tests"
+  ],
+  "SelectedNode": "\\Tests\\parque.cpp",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/marga/Desktop/FEUP/2ano/AEDa/3teste_2019/Tests/Gallery.cpp
+Gallery.h
+/cygdrive/c/Users/marga/Desktop/FEUP/2ano/AEDa/3teste_2019/Tests/Gallery.h
+ostream
+-
+
+/cygdrive/c/Users/marga/Desktop/FEUP/2ano/AEDa/3teste_2019/Tests/Gallery.h
+bst.h
+/cygdrive/c/Users/marga/Desktop/FEUP/2ano/AEDa/3teste_2019/Tests/bst.h
+vector
+-
+unordered_set
+-
+queue
+-
+Paint.h
+/cygdrive/c/Users/marga/Desktop/FEUP/2ano/AEDa/3teste_2019/Tests/Paint.h
+
+/cygdrive/c/Users/marga/Desktop/FEUP/2ano/AEDa/3teste_2019/Tests/Paint.h
+string
+-
+ostream
+-
+
+/cygdrive/c/Users/marga/Desktop/FEUP/2ano/AEDa/3teste_2019/Tests/bst.h
+iostream
+-
+stack
+-
+queue
+-
+
